@@ -23,3 +23,14 @@
 | 委屈 | dog-weiqu.png | 含淚扁嘴、受委屈了 |
 | 含淚 | dog-hanlei.png | 眼角帶淚、感動到快哭，類似 🥹 |
 | 大哭 | dog-daku.png | 張嘴嚎哭、眼淚狂流 |
+| 胸口冒火 | dog-maohuo.png | 心動、激動、被燃到 |
+| 叼牽繩 | dog-qiansheng.png | 想出門、求帶走 |
+| 小咪咪～ | dog-xiaomimi.png | 撲向小貓、愛不釋手 |
+| 嚶嚶抱小貓 | dog-yingying.png | 抱著蹭臉、撒嬌黏人 |
+| 愛咪是真的 | dog-aimi.png | 示愛、真心告白 |
+| 捧小貓哭 | dog-pengmao.png | 感動、捧在手心 |
+| 寶寶我來了 | dog-baobaowolaile.png | 飛撲過去、馬上趕到陪你 |
+| 我對小貓的態度 | dog-taidu.png | 讓小貓站背上、寵溺 |
+| 咪。好嘞！ | dog-haolei.png | 聽話、馬上照辦 |
+| 被愛射中 | dog-zhongjian.png | 被愛心箭射中、心動 |
+| 被窩共享邀請 | dog-beiwo.png | 邀請窩一起、想睡覺 |
