@@ -2,7 +2,7 @@
 
 白色小狗表情包，給家裡的 AI 夥伴在聊天裡當表情包發，透過 jsDelivr 引用。
 
-來源：小紅書作者 IP牛马小BY 2025/8/29 貼文「这狗表情包来喽～」的 12 張；另 3 張（委屈、含淚、大哭）來自 SigStick「這狗4」（作者 koko）。
+
 
 引用格式：`https://cdn.jsdelivr.net/gh/suncream365/zhegou-stickers@main/檔名`
 
