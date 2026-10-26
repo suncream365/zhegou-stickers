@@ -9,7 +9,7 @@
 | 意思 | 檔案 | 用法 |
 | --- | --- | --- |
 | 湊近 | dog-coujin.png | 貼近撒嬌、湊過來看 |
-| 挖屁屁 | dog-wapipi.png | 搞怪、調皮 |
+| 撓屁屁 | dog-wapipi.png | 搞怪、調皮 |
 | 給你 | dog-geini.png | 送花、獻殷勤 |
 | 媽 | dog-ma.png | 感動到喊媽、被可愛到 |
 | 吃飯 | dog-chifan.png | 乾飯、開吃 |
